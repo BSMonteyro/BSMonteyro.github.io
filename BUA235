@@ -1,0 +1,28 @@
+<html>
+
+
+<h1> 
+<t>My First Webpage in html</t>
+ </h1>
+
+
+
+
+<body> 
+
+<P>This is Braden Monteyro's first attempt on writing html as a first year
+student at UMO. On this website you will be able to find my contact
+information and various other items.</P>
+
+	<P>Email: Braden.Monteyro@gmail.com</P>
+	
+	
+	<P>Phone Number: (207)-487-1683</P>
+
+<IMG SRC="under-construction-gif-6.gif"
+
+<alink href="Mywebpage2.html">Next Page </A>
+
+</body>
+<style> body {background: red;  } </style>
+</html>h
